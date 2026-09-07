@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <!-- Rounded square background -->
+  <rect width="32" height="32" rx="7" fill="#1c1a17"/>
+  <!-- Printer body -->
+  <rect x="7" y="13" width="18" height="9" rx="2" fill="#d4a574"/>
+  <!-- Paper input (top) -->
+  <rect x="10" y="7" width="12" height="7" rx="1" fill="#f5efe4"/>
+  <!-- Paper lines -->
+  <rect x="12" y="9.5" width="6" height="0.8" rx="0.4" fill="#1c1a17" opacity="0.5"/>
+  <rect x="12" y="11" width="8" height="0.8" rx="0.4" fill="#1c1a17" opacity="0.5"/>
+  <!-- Paper output (bottom) -->
+  <rect x="10" y="20" width="12" height="6" rx="1" fill="#f5efe4"/>
+  <rect x="12" y="22" width="5" height="0.8" rx="0.4" fill="#1c1a17" opacity="0.5"/>
+  <rect x="12" y="23.5" width="7" height="0.8" rx="0.4" fill="#1c1a17" opacity="0.5"/>
+  <!-- Indicator light -->
+  <circle cx="22" cy="17" r="1" fill="#f5efe4"/>
+</svg>
